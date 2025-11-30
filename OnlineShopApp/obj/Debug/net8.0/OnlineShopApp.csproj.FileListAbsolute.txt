@@ -1,0 +1,15 @@
+/workspaces/OnlineShop/OnlineShopApp/bin/Debug/net8.0/OnlineShopApp
+/workspaces/OnlineShop/OnlineShopApp/bin/Debug/net8.0/OnlineShopApp.deps.json
+/workspaces/OnlineShop/OnlineShopApp/bin/Debug/net8.0/OnlineShopApp.runtimeconfig.json
+/workspaces/OnlineShop/OnlineShopApp/bin/Debug/net8.0/OnlineShopApp.dll
+/workspaces/OnlineShop/OnlineShopApp/bin/Debug/net8.0/OnlineShopApp.pdb
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.AssemblyInfoInputs.cache
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.AssemblyInfo.cs
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.csproj.CoreCompileInputs.cache
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.sourcelink.json
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.dll
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/refint/OnlineShopApp.dll
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.pdb
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/OnlineShopApp.genruntimeconfig.cache
+/workspaces/OnlineShop/OnlineShopApp/obj/Debug/net8.0/ref/OnlineShopApp.dll
